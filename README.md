@@ -1,4 +1,4 @@
-# music-to-light
+# realtime-music-viz
 Use this tool to create configurable music visualization effects by defining how audio processing code drives a light control interface.
 
 The project consists of three main components:
